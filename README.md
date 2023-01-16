@@ -1,6 +1,6 @@
 # Youtube Clone 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/07aa1972-a198-4bea-a0a7-075a4ddf6e37/deploy-status)](https://app.netlify.com/sites/unrivaled-cranachan-332400/deploys)
+Link to site on Netlify: [click here](https://statuesque-boba-6a6dd8.netlify.app/) 
 
 Credits: [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
 
